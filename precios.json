@@ -1,0 +1,49 @@
+{
+    "precios": [
+      {
+        "id": 1,
+        "nombre": "Netflix",
+        "PantallaUno": "1 Pantalla: $12.000",
+        "PantallaDos": "2 Pantallas: $20.000",
+        "PantallaTres": "3 Pantallas: $26.000",
+        "completa": "Completa: $30.000"
+      },
+      {
+        "id": 2,
+        "nombre": "Pulp Fiction",
+        "director": "Tarantino",
+        "clasificacion": "Acción"
+      },
+      {
+        "id": 3,
+        "nombre": "Todo Sobre Mi Madre",
+        "director": "Almodobar",
+        "clasificacion": "Drama"
+      },
+      {
+        "id": 4,
+        "nombre": "300",
+        "director": "Zack Snyder",
+        "clasificacion": "Acción"
+      },
+      {
+        "id": 5,
+        "nombre": "El silencio de los corderos",
+        "director": "Jonathan Demme",
+        "clasificacion": "Drama"
+      },
+      {
+        "id": 6,
+        "nombre": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "clasificacion": "Comedia"
+      },
+      {
+        "id": 7,
+        "nombre": "Las Hurdes",
+        "director": "Luis Buñuel",
+        "clasificacion": "Documental"
+      }
+  
+    ]
+}
